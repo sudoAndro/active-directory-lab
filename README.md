@@ -55,16 +55,16 @@ andro.lab
 ## 📸 Screenshots
 
 ### GPOs angewendet (gpresult /r)
-![gpresult](screenshots/Screenshot_2026-05-18_212847.png)
+![gpresult](screenshots/gpresult.png)
 
 ### DNS Sperrung — facebook.com & youtube.com
-![dns-sperren](screenshots/Screenshot_2026-05-18_213434.png)
+![dns-sperren](screenshots/dns-sperren.png)
 
 ### DNS Log
-![dns-log](screenshots/Screenshot_2026-05-18_213904.png)
+![dns-log](screenshots/dns-log.png)
 
 ### Passwort Richtlinie GPO
-![passwort-gpo](screenshots/Screenshot_2026-05-18_205542.png)
+![passwort-gpo](screenshots/passwort-gpo.png)
 
 ---
 
